@@ -1,0 +1,11 @@
+h1,h2 {
+	color: #4D2575;
+	font-family: Arial;
+	text-align: center;
+}
+h2 {
+	text-align: left;
+}
+p,ul,li,a {
+	font-family: helvetica;
+}
